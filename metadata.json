@@ -1,0 +1,5 @@
+{
+  "name": "GenAI Qa Tool",
+  "description": "A comprehensive, AI-powered tool for Software Requirements and Quality Assurance (QA) Management. It extracts requirements from documents, generates test cases, and provides detailed traceability and reporting.",
+  "requestFramePermissions": []
+}
